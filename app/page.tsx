@@ -1,8 +1,7 @@
+import { HomeView } from "@/views/home";
 
 export default function Home() {
-  return (
-    <div>
-      <p>Home 110</p>
-    </div>
+  return ( 
+    <HomeView />
   );
 }
